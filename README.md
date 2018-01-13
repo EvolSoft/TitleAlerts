@@ -56,7 +56,7 @@ WorldChange:
 #Death messages
 Death:
   #Show death messages in titles (Remember that they can't be displayed from the victim)
-  show-titles: true
+  show-title: true
   #Hide default death messages (they won't be displayed in chat but only on titles)
   hide-default: true
 ...
