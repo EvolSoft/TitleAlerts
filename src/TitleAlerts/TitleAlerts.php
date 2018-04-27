@@ -1,7 +1,7 @@
 <?php
 
 /*
- * TitleAlerts (v1.0) by EvolSoft
+ * TitleAlerts (v1.1) by EvolSoft
  * Developer: EvolSoft (Flavius12)
  * Website: https://www.evolsoft.tk
  * Date: 13/01/2018 02:51 PM (UTC)
